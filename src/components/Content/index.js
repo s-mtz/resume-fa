@@ -17,9 +17,9 @@ export default () => {
                     </Row>
                     <Row>
                         <p>
-                            دانشجوی رشته مهندسی کامپیوتر، برنامه‌نویس back-end، علاقمند به کار گروهی
-                            و چالش‌های مربوط به شبکه، متمرکز بر php، آشنا به nodeJs و برنامه نویسی
-                            front-end، طرفدار نرم افزار آزاد و عضو کوچکی از این جامعه هستم.
+                            دانشجوی رشته مهندسی کامپیوتر، با ۲ سال سابقه تدریس زبان انگلیسی به
+                            کودکان و بزرگسالان، علاقمند به کامپیوتر و برنامه‌نویسی، دارای تجربه
+                            مدیریت امورداخلی آموزشگاه زبان و منشی‌گری با روابط عمومی بالا.
                         </p>
                     </Row>
                 </div>
@@ -32,12 +32,12 @@ export default () => {
                     <Row className="education">
                         <Education />
                     </Row>
+                    <Row className="awards">
+                        <Awards />
+                    </Row>
                     <Row className="social">
                         <Social />
                     </Row>
-                    {/* <Row className="awards">
-                        <Awards />
-                    </Row> */}
                 </Col>
                 <Col xs={{ span: 24, order: 1 }} md={{ span: 15, order: 2 }} className="left">
                     <Experience />

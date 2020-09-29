@@ -4,3 +4,7 @@
 .Skills bold {
     font-weight: 900;
 }
+
+.Skills .ant-descriptions-item-label {
+    width: 55px;
+}
