@@ -7,8 +7,8 @@ export default () => {
         <div className="Social">
             <Descriptions title="شبکه‌های اجتماعی" column={6}>
                 <Descriptions.Item>
-                    <a href="https://gitlab.com/s-mtz">
-                        <i class="fa fa-gitlab"></i>
+                    <a href="https://github.com/s-mtz/">
+                        <i class="fa fa-github"></i>
                     </a>
                 </Descriptions.Item>
                 <Descriptions.Item>

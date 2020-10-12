@@ -10,6 +10,36 @@ export default () => {
 
             <>
                 <Row>
+                    <h4 className="Year">1399</h4>
+                    <h4 className="Title">ربات تلگرام با استفاده از php</h4>
+                </Row>
+                <Row>
+                    <h5 className="JobTitle">mangadl_tbot@</h5>
+                </Row>
+                <Row>
+                    <p>
+                        رباتی برای کراولر زدن به سایت های مانگا و کامیک و استخراج عکس به عکس آنها و سپس تبدیل آن به PDF و ZIP 
+                        <ul>
+                            <li>استفاده از ساختار توسعه تست محور (TDD)</li>
+                            <li>استفاده از ساختار MVC</li>
+                            <li>استفاده از composer</li>
+                            <li>استفاده از MySQL</li>
+                            <li>استفاده از <a href="https://github.com/nikic/FastRoute">FastRoute</a></li>
+                            <li>استفاده از <a href="https://github.com/Imagick/imagick">Imagick</a></li>
+                            <li>استفاده از <a href="https://github.com/Ne-Lexa/php-zip">PhpZip</a></li>
+                            <li>استفاده از <a href="https://phinx.org/">phinx</a></li>
+                        </ul>
+                        پروژه به دو نیم تقسیم شده ک عبارت است از :
+                        <ul>
+                            <li>بخش دانلودر که به صورت پکیج <a href="https://github.com/s-mtz/mangadl-crawlers">mangadl-crawlers</a> که جدا عرضه شده و قابل استفاده است </li>
+                            <li>بخش هندلر ربات تلگرام <a href="https://github.com/s-mtz/mangadl_tbot">mangadl_tbot</a> </li>
+                        </ul>
+                    </p>
+                </Row>
+            </>
+
+            <>
+                <Row>
                     <h4 className="Year">1397 - 1399</h4>
                     <h4 className="Title">تدریس زبان انگلیسی</h4>
                 </Row>

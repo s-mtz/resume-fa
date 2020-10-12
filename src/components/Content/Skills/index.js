@@ -31,42 +31,6 @@ export default () => {
                         trailColor="#F2CC8F"
                     />
                 </Descriptions.Item>
-                <h4>
-                    <b>کامپیوتر :</b>
-                </h4>
-                <Descriptions.Item label="Word">
-                    <Progress
-                        showInfo={false}
-                        type="line"
-                        percent={90}
-                        steps={30}
-                        size="small"
-                        strokeColor="#E07A5F"
-                        trailColor="#F2CC8F"
-                    />
-                </Descriptions.Item>
-                <Descriptions.Item label="Excel">
-                    <Progress
-                        showInfo={false}
-                        type="line"
-                        percent={60}
-                        steps={30}
-                        size="small"
-                        strokeColor="#E07A5F"
-                        trailColor="#F2CC8F"
-                    />
-                </Descriptions.Item>
-                <Descriptions.Item label="Access">
-                    <Progress
-                        showInfo={false}
-                        type="line"
-                        percent={40}
-                        steps={30}
-                        size="small"
-                        strokeColor="#E07A5F"
-                        trailColor="#F2CC8F"
-                    />
-                </Descriptions.Item>
                 <Descriptions.Item label="PHP">
                     <Progress
                         showInfo={false}
