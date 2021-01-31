@@ -13,13 +13,11 @@ export default () => {
             <Row className="about">
                 <div>
                     <Row>
-                        <h2>معرفی</h2>
+                        <h2>about</h2>
                     </Row>
                     <Row>
                         <p>
-                            دانشجوی رشته مهندسی کامپیوتر، با ۲ سال سابقه تدریس زبان انگلیسی به
-                            کودکان و بزرگسالان، علاقمند به کامپیوتر و برنامه‌نویسی، دارای تجربه
-                            مدیریت امورداخلی آموزشگاه زبان و منشی‌گری با روابط عمومی بالا.
+                            Computer Engineering student, who loves backend programing challanges and a passionate teacher
                         </p>
                     </Row>
                 </div>

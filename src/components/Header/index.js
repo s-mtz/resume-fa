@@ -9,13 +9,13 @@ export default () => {
             <Row align="middle">
                 <Col xs={{ span: 24, order: 2 }} sm={{ span: 20, order: 1 }}>
                     <Row>
-                        <h1>سید مرتضی حکیم‌زاده</h1>
+                        <h1>Seyyed Morteza Hakimzade</h1>
                     </Row>
                     <Row>{/* <h4></h4> */}</Row>
                     <Row className="social">
                         <Descriptions column={{ xs: 1, md: 2 }}>
-                            <Descriptions.Item label="شماره تماس">09392632560</Descriptions.Item>
-                            <Descriptions.Item label="ایمیل">
+                            <Descriptions.Item label="Phone number">09392632560</Descriptions.Item>
+                            <Descriptions.Item label="Email">
                                 s.mtz.hakim@gmail.com
                             </Descriptions.Item>
                         </Descriptions>
