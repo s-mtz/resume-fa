@@ -17,9 +17,7 @@ export default () => {
                     <h5 className="JobTitle">Junior Backend Developer</h5>
                 </Row>
                 <Row>
-                    <p>
-                        an small organization for developing applications
-                    </p>
+                    <p>an small organization for developing applications</p>
                 </Row>
             </>
 
@@ -33,21 +31,39 @@ export default () => {
                 </Row>
                 <Row>
                     <p>
-                        a robot which crawls into comics and mangas websites and export the images as zip and pdf
+                        a robot which crawls into comics and mangas websites and export the images
+                        as zip and pdf
                         <ul>
                             <li>using Test-driven development (TDD)</li>
                             <li>using Model, View, and Controller (MVC)</li>
-                            <li>using از composer</li>
+                            <li>using composer</li>
                             <li>using MySQL</li>
-                            <li>using <a href="https://github.com/nikic/FastRoute">FastRoute</a></li>
-                            <li>using <a href="https://github.com/Imagick/imagick">Imagick</a></li>
-                            <li>using <a href="https://github.com/Ne-Lexa/php-zip">PhpZip</a></li>
-                            <li>using <a href="https://phinx.org/">phinx</a></li>
+                            <li>
+                                using <a href="https://github.com/nikic/FastRoute">FastRoute</a>
+                            </li>
+                            <li>
+                                using <a href="https://github.com/Imagick/imagick">Imagick</a>
+                            </li>
+                            <li>
+                                using <a href="https://github.com/Ne-Lexa/php-zip">PhpZip</a>
+                            </li>
+                            <li>
+                                using <a href="https://phinx.org/">phinx</a>
+                            </li>
                         </ul>
                         the project is divided into two parts such as:
                         <ul>
-                            <li>the downloader package <a href="https://github.com/s-mtz/mangadl-crawlers">mangadl-crawlers</a> which can be used in any other project separately</li>
-                            <li>the telegram bot handler <a href="https://github.com/s-mtz/mangadl_tbot">mangadl_tbot</a> </li>
+                            <li>
+                                the downloader package{" "}
+                                <a href="https://github.com/s-mtz/mangadl-crawlers">
+                                    mangadl-crawlers
+                                </a>{" "}
+                                which can be used in any other project separately
+                            </li>
+                            <li>
+                                the telegram bot handler{" "}
+                                <a href="https://github.com/s-mtz/mangadl_tbot">mangadl_tbot</a>{" "}
+                            </li>
                         </ul>
                     </p>
                 </Row>
@@ -63,7 +79,8 @@ export default () => {
                 </Row>
                 <Row>
                     <p>
-                        with the license of Teachers Training Course(TTC) and 2 years of teaching experience in Momtaz institute
+                        with the license of Teachers Training Course(TTC) and 2 years of teaching
+                        experience in Momtaz institute
                     </p>
                 </Row>
             </>
@@ -77,9 +94,7 @@ export default () => {
                     <h5 className="JobTitle">Secretary and the internal director</h5>
                 </Row>
                 <Row>
-                    <p>
-                        experiencing class management, financial management and staff management
-                    </p>
+                    <p>experiencing class management, financial management and staff management</p>
                 </Row>
             </>
         </div>
