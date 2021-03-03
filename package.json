@@ -1,5 +1,6 @@
 {
-    "name": "resume",
+    "homepage": "https://s-mtz.github.io/resume-en/",
+    "name": "resume-en",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
