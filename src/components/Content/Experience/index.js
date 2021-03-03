@@ -17,7 +17,7 @@ export default () => {
                     <h5 className="JobTitle">Junior Backend Developer</h5>
                 </Row>
                 <Row>
-                    <p>an small organization for developing applications</p>
+                    <p>an small startup organization for application developing</p>
                 </Row>
             </>
 
@@ -27,7 +27,7 @@ export default () => {
                     <h4 className="Title">Telegram bot using php</h4>
                 </Row>
                 <Row>
-                    <h5 className="JobTitle">mangadl_tbot@</h5>
+                    <h5 className="JobTitle">@mangadl_tbot</h5>
                 </Row>
                 <Row>
                     <p>
