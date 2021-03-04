@@ -5,9 +5,9 @@ import "./styles.css";
 export default () => {
     return (
         <div className="Skills">
-            <Descriptions title="Skills" column={1}>
+            <Descriptions title="مهارت‌ها" column={1}>
                 <h4>
-                    <b>languages :</b>
+                    <b>زبان‌ :</b>
                 </h4>
                 <Descriptions.Item label="English">
                     <Progress

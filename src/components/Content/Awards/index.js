@@ -5,17 +5,17 @@ export default () => {
     return (
         <div className="Awards">
             <Row>
-                <Descriptions title="Awards" column={1}>
+                <Descriptions title="دستاوردها" column={1}>
                     <Descriptions.Item label="1397">
                         <b>
-                        Certificat of Teachers Training Course<small> (TTC)</small>
+                            مدرک تدریس زبان انگلیسی <small>(TTC)</small>
                         </b>
                     </Descriptions.Item>
                     <Descriptions.Item label="1397">
-                        <b>Certificat of Translation</b>
+                        <b>مدرک مترجمی زبان انگلیسی </b>
                     </Descriptions.Item>
                     <Descriptions.Item label="1393">
-                        <b>Certificat of Completion C2</b>
+                        <b>مدرک پایان‌دوره زبان انگلیسی</b>
                     </Descriptions.Item>
                 </Descriptions>
             </Row>
