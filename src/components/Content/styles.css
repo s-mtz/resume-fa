@@ -42,3 +42,7 @@
 .Content .contents .social {
     margin: 20px 0 50px 0;
 }
+
+.about p {
+    margin: 0px;
+}
