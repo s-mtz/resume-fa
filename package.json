@@ -10,7 +10,7 @@
         "antd": "^4.6.4",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
-        "react-scripts": "^4.0.3",
+        "react-scripts": "^3.4.4",
         "vazir-font": "^26.0.2"
     },
     "scripts": {

@@ -10,63 +10,49 @@ export default () => {
 
             <>
                 <Row>
-                    <h4 className="Year">1399</h4>
-                    <h4 className="Title">تیم زیتون سبز</h4>
+                    <h4 className="Year">1400</h4>
+                    <h4 className="Title">
+                        مدیریت پروژه <a href="https://namaktab.ir/">namaktab.ir</a>
+                    </h4>
                 </Row>
                 <Row>
-                    <h5 className="JobTitle">جونیور بکند دولوپر</h5>
+                    <h5 className="JobTitle"> مدیر پروژه و تسک منجر</h5>
                 </Row>
                 <Row>
-                    <p>شرکت استارتاپی کوچکی در راستای تولید اپلیکیشن </p>
+                    <p>ارتباط با کلاینت و تسک منجر وب سایت نمک تاب</p>
                 </Row>
             </>
 
             <>
                 <Row>
-                    <h4 className="Year">1399</h4>
-                    <h4 className="Title">ربات تلگرام با استفاده از php</h4>
+                    <h4 className="Year">1400</h4>
+                    <h4 className="Title">
+                        مدیریت محصول <a href="http://emall.market/">emall</a>
+                    </h4>
                 </Row>
                 <Row>
-                    <h5 className="JobTitle">mangadl_tbot@</h5>
+                    <h5 className="JobTitle">مدیر محصول، تسک منجر و تستر</h5>
                 </Row>
                 <Row>
                     <p>
-                        رباتی برای کراولر زدن به سایت های مانگا و کامیک و استخراج عکس به عکس آنها و
-                        سپس تبدیل آن به PDF و ZIP
-                        <ul>
-                            <li>استفاده از ساختار توسعه تست محور (TDD)</li>
-                            <li>استفاده از ساختار MVC</li>
-                            <li>استفاده از composer</li>
-                            <li>استفاده از MySQL</li>
-                            <li>
-                                استفاده از{" "}
-                                <a href="https://github.com/nikic/FastRoute">FastRoute</a>
-                            </li>
-                            <li>
-                                استفاده از <a href="https://github.com/Imagick/imagick">Imagick</a>
-                            </li>
-                            <li>
-                                استفاده از <a href="https://github.com/Ne-Lexa/php-zip">PhpZip</a>
-                            </li>
-                            <li>
-                                استفاده از <a href="https://phinx.org/">phinx</a>
-                            </li>
-                        </ul>
-                        پروژه به دو نیم تقسیم شده ک عبارت است از :
-                        <ul>
-                            <li>
-                                بخش دانلودر که به صورت پکیج{" "}
-                                <a href="https://github.com/s-mtz/mangadl-crawlers">
-                                    mangadl-crawlers
-                                </a>{" "}
-                                که جدا عرضه شده و قابل استفاده است{" "}
-                            </li>
-                            <li>
-                                بخش هندلر ربات تلگرام{" "}
-                                <a href="https://github.com/s-mtz/mangadl_tbot">mangadl_tbot</a>{" "}
-                            </li>
-                        </ul>
+                        ارتباط با کلاینت، مدیریت تسک ها، تست سناریو های مختلف در نسخه دیباگ، نوشتن
+                        بک لاگ و مدیریت دیزاین جدید
                     </p>
+                </Row>
+            </>
+
+            <>
+                <Row>
+                    <h4 className="Year">1399 - 1400</h4>
+                    <h4 className="Title">
+                        مدیریت پروژه <a href="https://zanjani.ir/">zanjani.ir</a>
+                    </h4>
+                </Row>
+                <Row>
+                    <h5 className="JobTitle">مدیر پروژه تسک منجر و تستر</h5>
+                </Row>
+                <Row>
+                    <p>ارتباط با کلاینت، تست و مدیریت تسک ها وب سایت ایت الله زنجانی</p>
                 </Row>
             </>
 
@@ -103,7 +89,7 @@ export default () => {
 
             <>
                 <Row>
-                    <h4 className="Year">1396 - 1397</h4>
+                    <h4 className="Year">1396 - 1398</h4>
                     <h4 className="Title">آموزشگاه زبان ممتاز</h4>
                 </Row>
                 <Row>

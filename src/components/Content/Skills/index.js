@@ -31,17 +31,6 @@ export default () => {
                         trailColor="#F2CC8F"
                     />
                 </Descriptions.Item>
-                <Descriptions.Item label="PHP">
-                    <Progress
-                        showInfo={false}
-                        type="line"
-                        percent={30}
-                        steps={30}
-                        size="small"
-                        strokeColor="#E07A5F"
-                        trailColor="#F2CC8F"
-                    />
-                </Descriptions.Item>
             </Descriptions>
         </div>
     );
